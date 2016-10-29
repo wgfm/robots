@@ -1,7 +1,4 @@
 apply plugin: 'java'
-apply plugin: 'application'
-
-mainClassName = 'frl.wgfm.robots.nasa.Houston'
 
 repositories {
     jcenter()
